@@ -1,0 +1,23 @@
+{
+  "name": "bananabasic",
+  "version": "1.0.0",
+  "description": "A simple yet usefull commandline interpreter for BASIC.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRickReich/bananabasic.git"
+  },
+  "keywords": [],
+  "author": "F. Rick Reich <frickreich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FRickReich/bananabasic/issues"
+  },
+  "homepage": "https://github.com/FRickReich/bananabasic#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
